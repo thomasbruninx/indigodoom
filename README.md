@@ -2,7 +2,7 @@
 
 This is a port of Doom for IndigoCare's SIP Touch wall display.
 
-[![See it for yourself](https://img.youtube.com/vi/UmX4kyB2wfg/0.jpg)](https://www.youtube.com/watch?v=UmX4kyB2wfg)
+[![See it for yourself](https://img.youtube.com/vi/Hkp04hGo2to/0.jpg)](https://www.youtube.com/watch?v=Hkp04hGo2to)
 
 ## The target
 
