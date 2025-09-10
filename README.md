@@ -2,6 +2,8 @@
 
 This is a port of Doom for IndigoCare's SIP Touch wall display.
 
+[![See it for yourself](https://img.youtube.com/vi/UmX4kyB2wfg/0.jpg)](https://www.youtube.com/watch?v=UmX4kyB2wfg)
+
 ## The target
 
 IndigoCare is a Belgian company that's specialized in making nurse call solutions for hospitals and eldercare.
